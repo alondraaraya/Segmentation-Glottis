@@ -1,0 +1,10 @@
+
+path: /home/voicelab/Desktop/segmentation_glottis/YOLOV8_3cls_seg/dataset
+train: images/train
+val: images/val
+
+names:
+  0: background
+  1: glottis
+  2: vocal_cord_left
+  3: vocal_cord_right
