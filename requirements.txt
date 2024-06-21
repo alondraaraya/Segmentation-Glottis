@@ -1,0 +1,7 @@
+opencv-python
+numpy
+matplotlib
+tensorflow
+tensorflow-addons
+keras
+ultralytics
